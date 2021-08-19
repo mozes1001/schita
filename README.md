@@ -1,4 +1,4 @@
-# Quasar App (schita)
+# Quasar App (shechita)
 
 A Quasar Framework app
 
